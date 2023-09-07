@@ -1,4 +1,5 @@
-// 1. Use document.querySelector to select the button with the id of "change-text".
+// 1. Create a variable called changeTextButton.
+// - Store the button with the id of "change-text" using document.querySelector.
 
 
 // DO NOT CHANGE THIS
