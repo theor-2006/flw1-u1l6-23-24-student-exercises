@@ -5,9 +5,8 @@
 // DO NOT CHANGE THIS
 changeTextButton.addEventListener('click', function() {
     
-    // 2. Use document.querySelector again to select the paragraph with the class of "intro-text".
-
-
+    // 2. Create a variable called introTextParagraph.
+    // - Store the paragraph with the class of "intro-text" using document.querySelector.
 
 
     
